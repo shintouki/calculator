@@ -1,5 +1,5 @@
 Simple Calculator
 
-https://tshin1.github.io/calculator/
+https://tshin7.github.io/calculator/
 
 Click on buttons to use calculator. Keyboard does not work. 
